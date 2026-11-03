@@ -4,6 +4,10 @@ docs_dir: docs
 repo_name: mastr-docs
 repo_url: https://github.com/OpenEnergyPlatform/mastr-docs
 
+nav:
+  - Home: index.md
+  - Datenmodell: schema/index.md
+  - open-mastr Dokumentation ↗: https://open-mastr.readthedocs.io/en/latest/
 
 theme:
   name: material
